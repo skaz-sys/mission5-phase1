@@ -1,0 +1,39 @@
+
+[
+    {
+        "title": "iPhone 15",
+        "description": "128GB smartphone in good condition",
+        "start_price": 500,
+        "reserve_price": 700
+    },
+    {
+        "title": "iPhone 14",
+        "description": "Black smartphone with 128GB storage",
+        "start_price": 350,
+        "reserve_price": 450
+    },
+    {
+        "title": "Samsung Galaxy S24",
+        "description": "Android smartphone",
+        "start_price": 400,
+        "reserve_price": 600
+    },
+    {
+        "title": "MacBook Air",
+        "description": "Apple laptop with M2 chip",
+        "start_price": 800,
+        "reserve_price": 1000
+    },
+    {
+        "title": "PlayStation 5",
+        "description": "Gaming console with controller",
+        "start_price": 300,
+        "reserve_price": 450
+    },
+    {
+        "title": "Nike Air Max",
+        "description": "White running shoes size 10",
+        "start_price": 50,
+        "reserve_price": 100
+    }
+]
